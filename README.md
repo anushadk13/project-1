@@ -1,16 +1,3 @@
-# E-Commerce Website
-
-# Project Overview
-
-Our e-commerce website is a one-stop destination for all fashion enthusiasts, especially females, offering a wide range of clothing and jewelry options. The website aims to provide a seamless shopping experience, catering to the diverse needs and preferences of our customers.
-
-## Target Audience
-
-Our target audience primarily includes females of all ages who are passionate about fashion and are looking for trendy clothing and accessories. Whether they are shopping for casual wear, formal attire, or statement jewelry, our website caters to their diverse style needs.
-
-# Tech Stack
-
-This project was built using the following technologies:
 
 - **Frontend:**
 
@@ -51,37 +38,8 @@ This project was built using the following technologies:
 - **Filtering Options:** Filter clothes by various criteria such as category, size, color, and price range.
 - **Responsive Design:** The website is optimized for desktop and mobile devices.
 
-## Installation
-
-To run the project locally, follow these steps:
-
-1. Clone the repository:
-
-   ```bash
-   git clone hhttps://github.com/Vishal7547/August-Ecommerce.git
-   cd ecommerce
-   npm install
-   ```
 
 ## Demo
 
-- **Live Demo:** [View Live Demo](https://august-ecommerce.vercel.app/)
-- **Video Demo:** [Watch Video Demo](https://res.cloudinary.com/dh9qvkjr1/video/upload/v1708844370/uarwgjoviltwtr23gjau.mkv)
+- **Live Demo:** [View Live Demo]
 
-- **watch:** <video width="320" height="240" controls>
-  <source src="https://res.cloudinary.com/dh9qvkjr1/video/upload/v1708844370/uarwgjoviltwtr23gjau.mkv" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-##images
-
-- **image1:** <img src="https://res.cloudinary.com/dh9qvkjr1/image/upload/v1708845165/cgnjxeowbr8qs2vxnf3j.png" alt="image1" />
-- **image2:** <img src="https://res.cloudinary.com/dh9qvkjr1/image/upload/v1708845163/iywbtsvcyxpjesupymn5.png" alt="image1" />
-  <img src="https://res.cloudinary.com/dh9qvkjr1/image/upload/v1708845162/olvuf7ofihdofpcmjlu9.png" alt="image1" />
-
-## Contact Information
-
-For further discussions or inquiries, feel free to reach out to me:
-
-- Email:vishalk80260@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/vishal-kumar-8b4618211/)
